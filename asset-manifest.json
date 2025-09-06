@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/axon-admin/static/css/main.26ee353d.css",
+    "main.js": "/axon-admin/static/js/main.9175b4b3.js",
+    "static/media/fa-solid-900.woff2": "/axon-admin/static/media/fa-solid-900.0ae4e6254fc19607c79e.woff2",
+    "static/media/fa-brands-400.woff2": "/axon-admin/static/media/fa-brands-400.e7461d69dbbff1310a5c.woff2",
+    "static/media/fa-regular-400.woff2": "/axon-admin/static/media/fa-regular-400.1f38a564cd9eae27ebc3.woff2",
+    "static/media/fa-v4compatibility.woff2": "/axon-admin/static/media/fa-v4compatibility.661bd6b7245d5205d3e1.woff2",
+    "index.html": "/axon-admin/index.html",
+    "main.26ee353d.css.map": "/axon-admin/static/css/main.26ee353d.css.map",
+    "main.9175b4b3.js.map": "/axon-admin/static/js/main.9175b4b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ee353d.css",
+    "static/js/main.9175b4b3.js"
+  ]
+}
