@@ -55,6 +55,7 @@ import {
 } from './data/mockData';
 
 function App() {
+    <Router basename={process.env.PUBLIC_URL}></Router>
   const [darkMode, setDarkMode] = useState(JSON.parse(localStorage.getItem('darkMode')) ?? false);
 
   // Bật/tắt Tailwind dark mode (gắn class trên <html>)
